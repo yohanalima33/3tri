@@ -1,0 +1,24 @@
+body { background-color:palevioletred;
+}
+h1 {text-align: center;
+color: black;
+border-style: groove;
+border-color: red;
+}
+h2 {text-align: center;
+}
+color: rgb(160,51,145);
+}
+h3 {text-align: center;
+}
+color: black;
+border-style: dotted;
+border-color: rgb(221,76,76);
+}
+#ima1 {margin-left: 40%;
+}
+#ima2 {margin-left: 40%;
+}
+h4 {text-align: center;
+}
+color: rgb(8,8,8);
